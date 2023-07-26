@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+div.Movies{
+  text-align: center;
+  background-color: beige;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Sorts Mill Goudy', serif;
+}
+
+
+.Movie img {
+  width: 200px;
+
+  height: 300px;
+}
